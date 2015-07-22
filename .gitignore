@@ -1,0 +1,23 @@
+# Java compiled #
+#################
+*.class
+
+# IDE #
+###########
+.classpath
+.project
+.settings
+.idea
+*.iml
+*.pjb
+*.prj
+*.sws
+bin/
+build/
+
+# Maven #
+#########
+target/
+
+# OS generated files #
+######################
