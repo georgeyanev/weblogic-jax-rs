@@ -21,7 +21,7 @@
         <wls:package-name>com.sun.ws.rs.ext.*</wls:package-name>
 
         <!-- media providers -->
-        <wls:package-name>org.eclipse.persistence.jaxb.rs.*</wls:package-name>
+        <wls:package-name>org.eclipse.persistence.*</wls:package-name>
         <wls:package-name>com.fasterxml.jackson.*</wls:package-name>
         <wls:package-name>org.codehaus.jackson.*</wls:package-name>
         <wls:package-name>org.codehaus.jettison.*</wls:package-name>
